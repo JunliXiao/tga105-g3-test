@@ -5,19 +5,8 @@ public class Boris {
 		System.out.println("新年快樂");
 		System.out.println("新年快樂");
 		System.out.println("新年快樂");
-		System.out.println("新年快樂");
-		System.out.println("新年快樂");
-		System.out.println("新年快樂");
-		System.out.println("新年快樂");
-		System.out.println("新年快樂");
-		System.out.println("新年快樂");
-		System.out.println("新年快樂");
-		System.out.println("新年快樂");
-		System.out.println("新年快樂");
-		System.out.println("新年快樂");
-		System.out.println("新年快樂");
-		System.out.println("新年快樂");
-		System.out.println("新年快樂");
+		System.out.println("brench3");
+
 
 	}
 
