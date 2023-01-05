@@ -15,4 +15,13 @@
 		<servlet-name>SamServlet</servlet-name>		
 		<url-pattern>/Hello</url-pattern>
 	</servlet-mapping>
+	
+	<servlet>
+		<servlet-name>WilliServlet</servlet-name>
+		<servlet-class>aaa.bbb.WilliServlet</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>WilliServlet</servlet-name>
+		<url-pattern>/william</url-pattern>
+	</servlet-mapping>
 </web-app>
